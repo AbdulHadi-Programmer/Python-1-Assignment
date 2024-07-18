@@ -5,7 +5,7 @@ import csv
 
 # Email credentials
 MY_EMAIL = "abdulhadistmstudent@gmail.com"
-PASSWORD = 'qipn kezf wxfn jphg'
+PASSWORD = 'ytpn ikzf yufn jolk'
 
 # Find Today Weekday
 def get_current_weekday():
