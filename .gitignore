@@ -1,0 +1,13 @@
+## Contact Book Assignment API:
+
+# link = 877a12bac2a4ea4cf240cc65dc4d0d72    (Replace Link and put that)
+# full link = "https://api.sheety.co/877a12bac2a4ea4cf240cc65dc4d0d72/contactBook/contact"
+
+# Post Request:      # URL = f"https://api.sheety.co/877a12bac2a4ea4cf240cc65dc4d0d72/contactBook/contact/{2}"
+#                    # URL = f"https://api.sheety.co/877a12bac2a4ea4cf240cc65dc4d0d72/contactBook/contact/{id}"
+
+# Update Request:    # URL = f"https://api.sheety.co/877a12bac2a4ea4cf240cc65dc4d0d72/contactBook/contact/{id}"
+#                    # URL = f"https://api.sheety.co/877a12bac2a4ea4cf240cc65dc4d0d72/contactBook/contact/{id}"
+
+# Delete Request:    # URL = f"https://api.sheety.co/877a12bac2a4ea4cf240cc65dc4d0d72/contactBook/contact/5"
+#                    # URL = f"https://api.sheety.co/877a12bac2a4ea4cf240cc65dc4d0d72/contactBook/contact/{id}"
