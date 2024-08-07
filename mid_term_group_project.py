@@ -7,7 +7,7 @@ from email.mime.text import MIMEText
 # Configure logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
-Sheety_URL = "https://api.sheety.co/877a12bac2a4ea4cf240cc65dc4d0d72/task/manager"
+Sheety_URL = "https://api.sheety.co/link/task/manager"
 
 class Task_Manager:
     def read_task_data(self):
@@ -99,7 +99,7 @@ class Task_Manager:
         smtp_server = 'smtp.gmail.com'
         smtp_port = 587
         smtp_user = 'abdulhadistmstudent@gmail.com'
-        smtp_password = 'eect laqr inxp jwoi'
+        smtp_password = 'password' # Saved in .env file
         
         msg = MIMEMultipart()
         msg['From'] = smtp_user
